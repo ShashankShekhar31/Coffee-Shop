@@ -21,7 +21,6 @@ At ***Coffee Haven***, we're passionate about providing high-quality coffee and 
 * CSS 
 * Bootstrap (for responsive design) 
 * Google Maps API (for displaying locations)
-* jQuery (for interactivity) 
 * JavaScript
 
 
